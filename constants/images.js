@@ -4,7 +4,7 @@ const promoBanner = require("../assets/images/promo-banner.png");
 const focus = require("../assets/images/focus.png");
 
 // Dummy
-const usFlag = require("../assets/images/ke-flag.png");
+const keFlag = require("../assets/images/ke-flag.png");
 
 
 export default {
@@ -14,5 +14,5 @@ export default {
     focus,
 
     // Dummy
-    usFlag
+    keFlag
 }
