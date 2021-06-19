@@ -8,13 +8,11 @@ import {
 
 
 const Scan = ({ navigation }) => {
-
-    function renderHeader() {
         return (
         <View>
-            <Text>yooh</Text>
+            <Text>Scan</Text>
         </View>
     )
-}}
+}
 
 export default Scan

@@ -9,7 +9,7 @@ import {
 const Home = ({ navigation }) => {
     return (
         <View>
-            <Text>SignUp</Text>
+            <Text>Home</Text>
         </View>
     )
 
